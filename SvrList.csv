@@ -1,0 +1,12 @@
+﻿ServerName,Service
+portal,Portal for ArcGIS
+hosting server,ArcGIS Server
+data store,ArcGIS Data Store
+geocoder,ArcGIS Server
+geoevent,FontCache
+big data store,FontCache
+arcgis monitor,FontCache
+tile cache,ArcGIS Data Store
+geocoder,FontCache
+image server,ArcGIS Server
+webadaptor,W3SVC
